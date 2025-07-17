@@ -8,32 +8,33 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Izakahr Echem </span>
-            from <span className="purple"> Bukidnon, Philippines.</span>
+            Hi everyone! I'm <span className="purple">Izakahr Echem</span> from
+            <span className="purple"> Bukidnon, Philippines</span>.
             <br />
-            I am currently employed as a software developer at CK Children's
-            Publishing.
+            I'm a passionate Full-Stack Web Developer with a strong focus on PHP and Laravel.
             <br />
-            I have completed Bachelors Of Science and Technology in Sourthern
-            Philippines
+            I graduated <i>**Cum Laude**</i> with a degree in Information Technology from the
+            University of Science and Technology of Southern Philippines (USTP).
+            <br />
+            I enjoy building clean, efficient, and scalable web applications that solve real-world problems.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Outside of development, I also enjoy:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing video games
             </li>
             <li className="about-activity">
               <ImPointRight /> Photography
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Traveling and exploring new places
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Strive to build things that make a difference!"
           </p>
           <footer className="blockquote-footer">Izakahr Echem</footer>
         </blockquote>
